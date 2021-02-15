@@ -38,6 +38,30 @@
             coverpage  : 'coverpage.md',
             homepage   : 'introduction.md',
             loadSidebar: 'sidebar.md',
+            
+
+            plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (html) {
+            if (/githubusercontent\.com/.test(vm.route.file)) {
+              url = vm.route.file
+                .replace('raw.githubusercontent.com', 'github.com')
+                .replace(/\/main/, '/blob/main')
+            } else {
+              url = 'https://github.com/DeanGodfree/docs/tree/main/docs/' + vm.route.file
+            }
+            var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
+
+            // Adjust GitHub displayable image URL format to also work in Docsify
+            html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
+
+            return editHtml
+              + html
+              + '\n\n----\n\n'
+              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by Docsify</a>'
+          })
+        }
+      ],
 
             // NAVIGATION
             // -----------------------------------------------------------------
@@ -56,10 +80,7 @@
                 depth      : 3,
                 noData     : 'No results!',
                 placeholder: 'Search...'
-            }
-            plugins: [
-            EditOnGithubPlugin.create('https://github.com/DeanGodfree/docs/blob/main')
-            ]        
+            }     
 };
     </script>
     <script src="assets/js/main.js"></script>
