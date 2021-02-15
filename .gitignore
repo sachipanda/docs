@@ -1,5 +1,13 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# Folders
+build
+coverage
+dist
+node_modules
+
+# Files
+*.log
+
+# OS
+._*
+.cache
+.DS_Store
