@@ -131,6 +131,51 @@ To use a PrismJS theme, add a `<link>` to your `index.html` after your site them
 <link rel="stylesheet" href="path/to/prismjs-theme.css">
 ```
 
+Here are some more examples:
+
+```bash
+echo "hello"
+```
+
+```python
+x = 1
+if x == 1:
+    # indented four spaces
+    print("x is 1.")
+```
+
+```csharp
+using System;
+
+namespace myApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("The current time is " + DateTime.Now);
+        }
+    }
+}
+```
+
+```java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        // Prints "Hello, World" to the terminal window.
+        System.out.println("Hello, World");
+    }
+
+}
+```
+
+```docker
+FROM alpine
+CMD ["echo", "Hello StackOverflow!"]
+```
+
 Note that only PrismJS theme colors will be applied. Layout and typography styles such as `font-family`, `border-radius`, `margin` and `padding` will continue to be applied by the site theme to maintain visual consistency.
 
 The [theme properties](#theme) that override PrismJS theme values are:
