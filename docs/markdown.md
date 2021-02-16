@@ -541,6 +541,34 @@ Reference-style
 
 <!-- tabs:end -->
 
+## Gifs
+
+<!-- tabs:start -->
+
+#### ** Rendered **
+
+Standard
+
+![alt text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+Click to play
+
+![alt text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif "-gifcontrol-mode=click;")
+
+#### ** Markdown **
+
+```markdown
+**Standard**
+
+![alt text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+**Click to play**
+
+![alt text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif "-gifcontrol-mode=click;")
+```
+
+<!-- tabs:end -->
+
 ## Emoji
 
 A complete list is available here: [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
