@@ -1,6 +1,6 @@
 # Week 4 (May 30 - Jun 5)
 
-![Wireframe](assets/images/m-monk-E813FON0wDQ-unsplash.jpg ':class=banner-image')
+![Wireframe](assets/img/m-monk-E813FON0wDQ-unsplash.jpg ':class=banner-image')
 
 ## Summaries and Questions  
 [May 30th Class One-minute Summaries](https://someurl.com)
@@ -16,5 +16,5 @@
 [4-UP MOBILES + GRID](https://someurl.toafile)  
 
 ## Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="center" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
