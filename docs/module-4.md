@@ -16,11 +16,13 @@
 [4-UP MOBILES + GRID](https://someurl.toafile)  
 
 ## Required Reading 
-[The Deactivation of the American Worker](http://www.theawl.com/2016/02/the-deactivation-of-the-american-worker){:class="embedly-card"}
+<div class="embed-card" style="width: 400px; height: 400px;">
+            <a class="embedly-card" data-card-controls="0" href="http://www.theawl.com/2016/02/the-deactivation-of-the-american-worker">The Deactivation of the American Worker</a>
 
 [The Post-Cubicle Office and Its Discontents](http://mobile.nytimes.com/2016/02/28/magazine/the-post-cubicle-office-and-its-discontents.html){:class="embedly-card"}
 
 This book is short and gets referenced a lot. If you haven't read much about this subject then it's a great starter. If you have, it might be a bit basic. Maybe [their next book](http://amzn.to/1TZ6q09) is more up to date.
+
 [Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy](http://amzn.to/1RsAPO2){:class="embedly-card"}
 
 <div class="embed-card" style="width: 400px; height: 400px;">
