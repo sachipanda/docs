@@ -38,6 +38,18 @@
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/buble.css"> -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/dark.css"> -->
     <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/pure.css"> -->
+    
+    
+    <!-- Inspirired by https://github.com/paulhibbitts/test-docsify-open-course-starter-kit/blob/master/docs/index.html -->
+      <style> 
+      :root {    
+        --navbar-root-color: #0A75BD;
+        --navbar-root-color--active: #0A75BD;
+        --navbar-root-color--hover: #0A75BD;
+      }
+    </style>
+    
+    
 </head>
 
 <body>
@@ -59,6 +71,7 @@
             coverpage  : 'coverpage.md',
             homepage   : 'introduction.md',
             loadSidebar: 'sidebar.md',
+            loadNavbar: true,
 
             plugins: [
         function (hook, vm) {
