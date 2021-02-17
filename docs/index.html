@@ -49,6 +49,32 @@
       }
     </style>
     
+    <!-- Testing a chat button -->
+    
+   <style type="text/css">
+teams-open-chat-button{
+z-index: 100;
+position: fixed;
+bottom: 0;
+right: 10px;
+padding: 1em 3em;
+background-color: #36bc98;
+border: 0;
+border-top-left-radius: .5em;
+border-top-right-radius: .5em;
+font-family: sans-serif;
+font-size: 12px;
+letter-spacing: 1px;
+text-transform: uppercase;
+text-align: center;
+text-decoration: none;
+cursor: pointer;
+transition: all .3s ease;
+box-sizing: border-box;
+color: #fff;}
+</script>
+       
+    
     
 </head>
 
@@ -91,7 +117,9 @@
             return editHtml
               + html
               + '\n\n----\n\n'
-              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by Docsify</a>'
+              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by docsify</a>'
+              + '\n\n----\n\n'
+              + '<a href="https://gitter.im/docsifyjs/Lobby" class="teams-open-chat-button">Open Chat</a>'
           })
         }
       ],
@@ -108,7 +136,7 @@
             // PLUGINS
             // -----------------------------------------------------------------
             executeScript: true,
-            ga    : 'UA-100100910-3',
+            ga    : '',
             search: {
                 depth      : 3,
                 noData     : 'No results!',
@@ -143,5 +171,6 @@
     <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js" type="text/javascript"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
     <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
+       <a href="https://gitter.im/docsifyjs/Lobby" class="gitter-open-chat-button">Open Chat</a>
 </body>
 </html>
