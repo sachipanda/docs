@@ -22,13 +22,9 @@
 
 This book is short and gets referenced a lot. If you haven't read much about this subject then it's a great starter. If you have, it might be a bit basic. Maybe [their next book](http://amzn.to/1TZ6q09) is more up to date.
 
-[Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy](http://amzn.to/1RsAPO2){:class="embedly-card"}
-
 <div class="embed-card" style="width: 400px; height: 400px;">
             <a class="embedly-card" data-card-controls="0" href="https://s3.eu-central-1.amazonaws.com/transitanalystisrael-current/indexe.html">Transit Analyst Israel</a>
             <button class="embed-button" type="button" onclick="location.href='https://deangodfree.github.io/'">Home Page</button>
-        </div>
-        
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
+ </div>
 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
