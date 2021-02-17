@@ -17,16 +17,12 @@
 
 ## Required Reading 
 <div class="embed-card" style="width: 400px; height: 400px;">
-            <a class="embedly-card" data-card-controls="0" href="http://www.theawl.com/2016/02/the-deactivation-of-the-american-worker">The Deactivation of the American Worker</a>
-</div>
-
-<div class="embed-card" style="width: 400px; height: 400px;">
             <a class="embedly-card" data-card-controls="0" href="https://s3.eu-central-1.amazonaws.com/transitanalystisrael-current/indexe.html">Transit Analyst Israel</a>
             <button class="embed-button" type="button" onclick="location.href='https://deangodfree.github.io/'">Home Page</button>
  </div>
  
  This book is short and gets referenced a lot. If you haven't read much about this subject then it's a great starter. If you have, it might be a bit basic. Maybe [their next book](http://amzn.to/1TZ6q09) is more up to date.
  
- [Embedly](https://twitter.com/internetofshit/status/707233730486734848?s=09){:class="embedly-card"}
+[Homepage](https://deangodfree.github.io/ ':include :type=iframe width=100% height=400px')
 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
