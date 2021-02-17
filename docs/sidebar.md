@@ -5,6 +5,7 @@
 - [Options](options)
 - [Markdown](markdown)
 - [Changelog](changelog)
+- [Week 4 (May 30 - Jun 5)](module-4)
 - **Links**
 - [![Code](assets/img/code.svg)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
 - [![Github](assets/img/github.svg)Github](https://github.com/jhildenbiddle/docsify-themeable)
