@@ -16,7 +16,18 @@
 [4-UP MOBILES + GRID](https://someurl.toafile)  
 
 ## Required Reading 
-<h2 style="font-family:tempus sans itc;"><a href="website_homepage.htm">Home</a> <a href="website_hills.htm">Hills Pupil Tailored Website</a></h2>
-<h2 style="font-family:tempus sans itc;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping2</a><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping3</a></h2>
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping2</a><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping3</a>
+[The Deactivation of the American Worker](http://www.theawl.com/2016/02/the-deactivation-of-the-american-worker){:class="embedly-card"}
+
+[The Post-Cubicle Office and Its Discontents](http://mobile.nytimes.com/2016/02/28/magazine/the-post-cubicle-office-and-its-discontents.html){:class="embedly-card"}
+
+This book is short and gets referenced a lot. If you haven't read much about this subject then it's a great starter. If you have, it might be a bit basic. Maybe [their next book](http://amzn.to/1TZ6q09) is more up to date.
+[Race Against The Machine: How the Digital Revolution is Accelerating Innovation, Driving Productivity, and Irreversibly Transforming Employment and the Economy](http://amzn.to/1RsAPO2){:class="embedly-card"}
+
+<div class="embed-card" style="width: 400px; height: 400px;">
+            <a class="embedly-card" data-card-controls="0" href="https://s3.eu-central-1.amazonaws.com/transitanalystisrael-current/indexe.html">Transit Analyst Israel</a>
+            <button class="embed-button" type="button" onclick="copyEmbedCode('https://deangodfree.github.io/')">go home</button>
+        </div>
+        
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
+
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
