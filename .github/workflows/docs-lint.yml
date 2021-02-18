@@ -24,7 +24,11 @@ jobs:
       run: |
         gem install mdl
         mdl docs
-
+  markdownlintnew:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Run mdl
+      uses: actionshub/markdownlint@main
   rubocop:
     runs-on: ubuntu-latest
     steps:
@@ -67,3 +71,8 @@ jobs:
       run: |
         ln -s docs/.vuepress/dist ${{ github.event.repository.name }}
         wget -qO- https://raw.githubusercontent.com/ruzickap/action-my-broken-link-checker/v1/entrypoint.sh | bash
+  markdown-link-check:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: gaurav-nelson/github-action-markdown-link-check@v1
