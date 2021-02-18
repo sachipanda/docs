@@ -42,7 +42,26 @@
         "ponyfill"
      
     ],
-    "ignorePaths": ["gemfiles","src",".github/workflows"],
+    "ignorePaths": ["gemfiles","src",".github"],
     "dictionaries": ["softwareTerms", "companies", "en_US", "fonts"],
     "flagWords": ["hte"]
+    "languageSettings": [
+        {
+            // VSCode languageId. i.e. typescript, java, go, cpp, javascript, markdown, latex
+            // * will match against any file type.
+            "languageId": "markdown",
+            // Language local. i.e. en-US, de-AT, or ru. * will match all locals.
+            // Multiple locals can be specified like: "en, en-US" to match both English and English US.
+            "local": "en, en-US",
+            // To exclude patterns, add them to "ignoreRegExpList"
+            "ignoreRegExpList": [
+                "/#include.*/"
+            ],
+            // List of dictionaries to enable by name in `dictionaryDefinitions`
+            "dictionaries": ["markdown"],
+            // Dictionary definitions can also be supplied here. They are only used iff "languageId" and "local" match.
+            "dictionaryDefinitions": []
+        }
+    ]
+
 }
