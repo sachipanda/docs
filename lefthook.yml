@@ -4,10 +4,6 @@ pre-commit:
       tags: style
       glob: "**/*.md"
       run: mdl {staged_files}
-    liche:
-      tags: links
-      glob: "docs/**/*.md"
-      run: liche -c 2 -r docs/* -d docs/ -x "(test)/"
     forspell:
       tags: grammar
       glob: "**/*.md"
