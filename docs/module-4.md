@@ -17,6 +17,8 @@
 
 ## Required Reading 
 This book is short and gets referenced a lot. If you haven't read much about this subject then it's a great starter. If you have, it might be a bit basic. Maybe [their next book](http://amzn.to/1TZ6q09) is more up to date.
+
+I am now adding some missplet wordz tooo see if the CI pickz it up?
  
 [Homepage](https://deangodfree.github.io/ ':include :type=iframe width=100% height=400px')
 
