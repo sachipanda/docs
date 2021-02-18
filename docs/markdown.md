@@ -223,8 +223,8 @@ This is <sup>superscript</sup>
 
 - [x] Task 1
 - [ ] Task 2
-  - [x] Subtask A
-  - [ ] Subtask B
+  - [x] Sub-task A
+  - [ ] Sub-task B
 - [ ] Task 3
 
 #### ** Markdown **
@@ -252,14 +252,14 @@ This is <sup>superscript</sup>
 
 - [x] Task 1
 - [ ] Task 2
-  - [x] Subtask A
-  - [ ] Subtask B
+  - [x] Sub-task A
+  - [ ] Sub-task B
 - [ ] Task 3
 ```
 
 <!-- tabs:end -->
 
-## Blockquotes
+## Block-quotes
 
 <!-- tabs:start -->
 
