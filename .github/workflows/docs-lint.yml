@@ -56,21 +56,14 @@ jobs:
       run: gem install forspell
     - name: Run Forspell
       run: forspell docs/**/*.md
-  liche:
+  brokenlinkchecker:
     runs-on: ubuntu-latest
-    env:
-      GO111MODULE: on
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Go
-      uses: actions/setup-go@v1
-      with:
-        go-version: 1.13.x
-    - name: Install liche
+    steps: 
+    - name: Check broken links
+      env:
+        INPUT_URL: https://${{ github.event.repository.owner.name }}.github.io/${{ github.event.repository.name }}
+        INPUT_PAGES_PATH: .
+        INPUT_CMD_PARAMS: --buffer-size=8192 --max-connections=10 --color=always --skip-tls-verification
       run: |
-        export PATH=$PATH:$(go env GOPATH)/bin
-        go get -u github.com/raviqqe/liche
-    - name: Run liche
-      run: |
-        export PATH=$PATH:$(go env GOPATH)/bin
-        liche -c 2 -r docs/* -d docs/ -x "(anycable-go|ruby|rails)/"
+        ln -s docs/.vuepress/dist ${{ github.event.repository.name }}
+        wget -qO- https://raw.githubusercontent.com/ruzickap/action-my-broken-link-checker/v1/entrypoint.sh | bash
