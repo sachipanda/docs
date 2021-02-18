@@ -44,7 +44,7 @@
     ],
     "ignorePaths": ["gemfiles","src",".github"],
     "dictionaries": ["softwareTerms", "companies", "en_US", "fonts"],
-    "flagWords": ["hte"]
+    "flagWords": ["hte"],
     "languageSettings": [
         {
             // VSCode languageId. i.e. typescript, java, go, cpp, javascript, markdown, latex
