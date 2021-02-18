@@ -26,7 +26,7 @@ window.$docsify = {
 
 Determines if `<table>` elements will be displayed as responsive tables on smaller screens.
 
-When `true`, the `<table>` layout will be adjusted on smaller screens, allowing table data to flow vertically instead of horizontally. This prevents users from having to scroll horizontally, making the table data easier to read. When `false`, `<table>` elements will be displayed as they are on larger screens, with a horizontal scrollbar if necessary.
+When `true`, the `<table>` layout will be adjusted on smaller screens, allowing table data to flow vertically instead of horizontally. This prevents users from having to scroll horizontally, making the table data easier to read. When `false`, `<table>` elements will be displayed as they are on larger screens, with a horizontal scroll-bar if necessary.
 
 **Example**
 
