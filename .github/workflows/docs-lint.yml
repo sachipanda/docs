@@ -55,7 +55,7 @@ jobs:
     - name: Install Forspell
       run: gem install forspell
     - name: Run Forspell
-      run: forspell docs/**/*.md
+      run: forspell docs/*.md
   brokenlinkchecker:
     runs-on: ubuntu-latest
     steps: 
