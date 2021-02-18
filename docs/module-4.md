@@ -28,6 +28,6 @@ This book is short and gets referenced a lot. If you haven't read much about thi
 <div class="embed-card" style="width: 400px; height: 400px;">
             <a class="embedly-card" data-card-controls="0" href="https://s3.eu-central-1.amazonaws.com/transitanalystisrael-current/indexe.html">Transit Analyst Israel</a>
             <button class="embed-button" type="button" onclick="location.href='https://deangodfree.github.io/'">Home Page</button>
- </div>
+</div>
 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
