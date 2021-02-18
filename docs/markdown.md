@@ -265,7 +265,7 @@ This is <sup>superscript</sup>
 
 #### ** Rendered **
 
-> Mr and Mrs Dursley, of number four, Privet Drive, were 
+> Mr and Mrs Dursley, of number four, Privet Drive, were
 > proud to say that they were perfectly normal, thank
 > you very much. They were the last people you’d expect to be
 > involved in anything strange or mysterious, because they just
@@ -276,7 +276,7 @@ This is <sup>superscript</sup>
 #### ** Markdown **
 
 ```markdown
-> Mr and Mrs Dursley, of number four, Privet Drive, were 
+> Mr and Mrs Dursley, of number four, Privet Drive, were
 > proud to say that they were perfectly normal, thank
 > you very much. They were the last people you’d expect to be
 > involved in anything strange or mysterious, because they just
