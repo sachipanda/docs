@@ -114,10 +114,10 @@ color: #fff;}
             // Adjust GitHub displayable image URL format to also work in Docsify
             html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-          <!--  return editHtml
+            return editHtml
               + html
            //   + '\n\n----\n\n'
-           //   + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by docsify</a>' -->
+           //   + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by docsify</a>'
           })
         }
       ],
@@ -125,7 +125,7 @@ color: #fff;}
             // NAVIGATION
             // -----------------------------------------------------------------
             alias: {
-                '.*?/changelog': 'https://raw.githubusercontent.com/jhildenbiddle/docsify-themeable/master/CHANGELOG.md',
+                '.*?/changelog': 'https://raw.githubusercontent.com/DeanGodfree/docs/main/CHANGELOG.md',
             },
             auto2top   : true,
             maxLevel   : 3,
