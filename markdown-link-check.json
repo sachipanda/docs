@@ -1,0 +1,22 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^http://example.net"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "^.attachments",
+      "replacement": "file://some/conventional/folder/.attachments"
+    },
+    {
+      "pattern": "^/",
+      "replacement": "{{BASEURL}}/"
+    }
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [200, 206]
+}
