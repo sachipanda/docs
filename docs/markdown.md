@@ -8,15 +8,15 @@
 
 # Heading 1 {docsify-ignore}
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
-didn’t hold with such nonsense. 
+didn’t hold with such nonsense.
 
 ## Heading 2 {docsify-ignore}
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -24,7 +24,7 @@ didn’t hold with such nonsense.
 
 ### Heading 3 {docsify-ignore}
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -32,7 +32,7 @@ didn’t hold with such nonsense.
 
 #### Heading 4 {docsify-ignore}
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -40,7 +40,7 @@ didn’t hold with such nonsense.
 
 ##### Heading 5 {docsify-ignore}
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -48,7 +48,7 @@ didn’t hold with such nonsense.
 
 ###### Heading 6 {docsify-ignore}
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -63,11 +63,11 @@ Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
-didn’t hold with such nonsense. 
+didn’t hold with such nonsense.
 
 ## Heading 2
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -75,7 +75,7 @@ didn’t hold with such nonsense.
 
 ### Heading 3
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -83,14 +83,14 @@ didn’t hold with such nonsense.
 
 #### Heading 4
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
 didn’t hold with such nonsense.
 
 ##### Heading 5
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
@@ -98,7 +98,7 @@ didn’t hold with such nonsense.
 
 ###### Heading 6
 
-Mr and Mrs Dursley, of number four, Privet Drive, were 
+Mr and Mrs Dursley, of number four, Privet Drive, were
 proud to say that they were perfectly normal, thank
 you very much. They were the last people you’d expect to be
 involved in anything strange or mysterious, because they just
