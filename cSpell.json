@@ -46,7 +46,7 @@
         "ponyfill"
      
     ],
-    "ignorePaths": ["gemfiles","src"],
+    "ignorePaths": ["gemfiles","src",".github/workflows"],
     "dictionaries": ["softwareTerms", "companies", "en_US", "fonts"],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
