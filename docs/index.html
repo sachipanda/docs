@@ -113,7 +113,8 @@ color: #fff;}
             } else {
               url = 'https://github.com/DeanGodfree/docs/tree/main/docs/' + vm.route.file
             }
-            var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
+            
+              var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
 
             // Adjust GitHub displayable image URL format to also work in Docsify
             html = html.replace(new RegExp("../assets/img", 'ig'), "assets/img");
@@ -140,7 +141,6 @@ color: #fff;}
             // PLUGINS
             // -----------------------------------------------------------------
             executeScript: true,
-            ga    : '',
             search: {
                 depth      : 3,
                 noData     : 'No results!',
@@ -151,7 +151,7 @@ color: #fff;}
     <script src="assets/js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
-    <script async defer src="https://teams.microsoft.com/share/launcher.js"></script>
+    <script defer src="https://teams.microsoft.com/share/launcher.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
