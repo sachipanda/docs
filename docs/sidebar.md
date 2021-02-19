@@ -5,9 +5,5 @@
 - [Options](options)
 - [Markdown](markdown)
 - [Changelog](changelog)
+- **Lessons**
 - [Week 4 (May 30 - Jun 5)](module-4)
-- **Links**
-- [![Code](assets/img/code.svg)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-- [![Github](assets/img/github.svg)Github](https://github.com/jhildenbiddle/docsify-themeable)
-- [![NPM](assets/img/npm.svg)NPM](https://www.npmjs.com/package/docsify-themeable)
-- [![Twitter](assets/img/twitter.svg)@jhildenbiddle](http://twitter.com/jhildenbiddle)
