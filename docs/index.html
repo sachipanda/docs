@@ -97,8 +97,8 @@ color: #fff;}
             
             // GENERAL
             // -----------------------------------------------------------------
-            name       : 'docsify-themeable',
-            repo       : 'https://github.com/jhildenbiddle/docsify-themeable',
+            name       : 'docs',
+            repo       : 'https://github.com/DeanGodfree/docs/',
             coverpage  : 'coverpage.md',
             homepage   : 'introduction.md',
             loadSidebar: 'sidebar.md',
@@ -117,7 +117,7 @@ color: #fff;}
             var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
 
             // Adjust GitHub displayable image URL format to also work in Docsify
-            html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
+            html = html.replace(new RegExp("../assets/img", 'ig'), "assets/img");
 
             return editHtml
               + html
@@ -157,7 +157,7 @@ color: #fff;}
     <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-    <script src="https://teams.microsoft.com/share/launcher.js"></script>
+    <script defer src="https://teams.microsoft.com/share/launcher.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-java.js"></script>
