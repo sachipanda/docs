@@ -83,31 +83,23 @@ While `>` notes could probably be skipped over by the reader and they'd still be
 
 Note the code type distinction after the 3 backticks.  It can be any of the following codes:
 
-- graphql
+- java
 - json
+- yaml
 - javascript
 - python
+- csharp
 - bash
 - http
 - css
 - html
+- docker
 
-```graphql
-query {
-  temporalDataObjects {
-    records {
-      id
-      name
-      description
-      tasks {
-        records {
-          id
-          name
-          description
-        }
-      }
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Write your code here
     }
-  }
 }
 ```
 
@@ -119,11 +111,11 @@ Don't try to line everything up perfectly in the markdown; just ensure you have 
 Line up the table headers and the line under them, and for the rows, just add separators where appropriate.
 
 ```markdown
-| Parameter | Value |
-| --------- | ----- |
-| `preferredInputFormat` | `"text/plain"` |
-| `supportedInputFormats` | `["text/plain"]` |
-| `engineMode` | `"chunk"` |
+| Left Align | Center Align | Right Align | Non&#8209;Breaking&nbsp;Header |
+| ---------- |:------------:| -----------:| ------------------------------ |
+| A1         | A2           | A3          | A4                             |
+| B1         | B2           | B3          | B4                             |
+| C1         | C2           | C3          | C4                             |
 ```
 
 #### Advanced Formatting
@@ -134,6 +126,7 @@ If we start to see that we need extra padding after h3s for example, we can appl
 
 If there is an advanced feature that you want added to lots of different places, consider building a plugin to render it based on very simple markdown (e.g. )
 See the [docsify documentation](https://docsify.js.org/#/helpers) for the available helpers.
+
 Our conventions for this repo are as follows:
 
 ### How to add a new link to the side bar
