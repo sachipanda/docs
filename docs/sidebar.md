@@ -1,5 +1,6 @@
 - [Introduction](introduction)
 - [Quick Start](quick-start)
+- [How to contribute](how-to-contribute)
 - [Themes](themes)
 - [Customization](customization)
 - [Options](options)
