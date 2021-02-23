@@ -291,7 +291,7 @@ This is <sup>superscript</sup>
 > proud to say that they were perfectly normal, thank
 > you very much. They were the last people you’d expect to be
 > involved in anything strange or mysterious, because they just
-> didn’t hold with such nonsense.
+> didn’t hold with such nonsense. Admiral and Yellow Jack.
 >
 > *- Quote Source*
 
@@ -302,7 +302,7 @@ This is <sup>superscript</sup>
 > proud to say that they were perfectly normal, thank
 > you very much. They were the last people you’d expect to be
 > involved in anything strange or mysterious, because they just
-> didn’t hold with such nonsense.
+> didn’t hold with such nonsense. Admiral and Yellow Jack.
 >
 > *- Quote Source*
 ```
