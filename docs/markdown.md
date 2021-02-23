@@ -259,6 +259,22 @@ This is <sup>superscript</sup>
 
 <!-- tabs:end -->
 
+## Material Icons
+
+<!-- tabs:start -->
+
+#### ** Rendered **
+
+:mi-two-tone check_circle green:
+
+#### ** Markdown **
+
+```markdown
+:mi-two-tone check_circle green:
+```
+
+<!-- tabs:end -->
+
 ## Block-quotes
 
 <!-- tabs:start -->
