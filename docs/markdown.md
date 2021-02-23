@@ -267,10 +267,16 @@ This is <sup>superscript</sup>
 
 :mi-two-tone check_circle green:
 
+:mi-two-tone face:
+
 #### ** Markdown **
 
 ```markdown
 :mi-two-tone check_circle green:
+```
+
+```markdown
+:mi-two-tone face:
 ```
 
 <!-- tabs:end -->
