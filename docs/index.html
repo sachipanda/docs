@@ -34,6 +34,8 @@
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple">
     <link rel="stylesheet" href="assets/css/main.css">
+    
+    <link rel="stylesheet" href="https://unpkg.com/vue-rate-it/dist/star-rating.min.js">
 
     <!-- Alternate Stylesheets -->
    <!--   <link rel="stylesheet alternate" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css" title="Defaults">
@@ -121,7 +123,8 @@ color: #fff;}
 
             return editHtml
               + html
-           //   + '\n\n----\n\n'
+              + '\n\n----\n\n'
+              + '<star-rating :item-size="30" inactive-color="#000" active-color="#cc1166" :increment="0.5" v-model="rating"> </star-rating>'
            //   + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by docsify</a>'
            //     + '\n\n----\n\n'
            //     + '<div class="teams-share-button" data-href="https://deangodfree.github.io/docs/"/>'
