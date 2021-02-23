@@ -32,4 +32,4 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 
 Alternatively you can use [Docker](https://github.com/littlstar/docker-docsify) to run locally.
 
-[!Rate this page](assets/img/stars.png ':size=10%')
+[!Rate this page](assets/img/stars.png)
