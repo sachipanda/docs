@@ -6,5 +6,6 @@
 - [Options](options)
 - [Markdown](markdown)
 - [Changelog](changelog)
+- [Navigation](navigation)
 - **Lessons**
 - [Week 4 (May 30 - Jun 5)](module-4)
