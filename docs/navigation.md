@@ -4,80 +4,19 @@
 
 #### ** WHAT ARE YOU TRYING TO ACHIEVE? **
 
-<div style="display: flex">
-    <div class="featureColumn">
-        <div class="featureBox"> 
-            <div class="featureText">
+
                 <h3>Use existing model</h3>
-                <div>Use any of the existing models to start creating cognitive applications.</div>
-                <a class="link" href="/#/quickstart/jobs/?id=working-with-jobs"> GET STARTED</a>
-            </div>
-            <div class= "featureImage">
-                <img src="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4" alt="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4">
-            </div>
-        </div>
-        </br>
-        </br>
-        <div class="featureBox"> 
-            <div class="featureText">
+                
                 <h3>Train a model</h3>
-                <div>Use aiWARE to train your models and benchmark their performance.</div>
-                <a class="link" href="/#/developer/engines/tutorial/engine-training-tutorial"> GET STARTED</a>
-            </div>
-            <div class= "featureImage">
-                <img src="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4" alt="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4">
-            </div>
-        </div>
-        </br>
-        </br>
-        <div class="featureBox">
-            <div class="featureText">
+               
                 <h3>Run processes at scale</h3>
-                <div>Use aiWARE to run proceses at scale in local networks, on and offline, and behind firewalls.</div>
-                <a class="link" href="/#/overview/aiware-features"> GET STARTED</a>
-            </div>
-            <div class= "featureImage">
-                <img src="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4" alt="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4">
-            </div>
-        </div>
-    </div>
-    <div class="featureColumn">
-        <div class="featureBox"> 
-            <div class= "featureText">
+                
                 <h3>Build a custom model</h3>
-                <div>Use aiWARE to create custom model based on your own data points.</div>
-                <a class="link" href="/#/developer/engines/tutorial/"> GET STARTED</a>
-            </div>
-            <div class= "featureImage">
-                <img src="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4" alt="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4">
-            </div>
-        </div>
-        </br>
-        </br>
-        <div class="featureBox">  
-            <div class= "featureText">
+               
                 <h3>Integrate a model into my app</h3>
-                <div>Use your model in production apps and start resolving real technical challenges.</div>
-                <a class="link" href="/#/developer/applications/app-tutorial/"> GET STARTED</a>
-            </div>
-            <div class= "featureImage">
-                <img src="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4" alt="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4">
-            </div>
-        </div>
-        </br>
-        </br>
-        <div class="featureBox">  
-            <div class= "featureText">
+                
                 <h3>Automate a process</h3>
-                <div>Use aiWARE to automate business processes and maximize your speed and output.</div>
-                <a class="link" href="/#/automate-studio/"> GET STARTED</a>
-            </div>
-            <div class= "featureImage">
-                <img src="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4" alt="https://avatars3.githubusercontent.com/u/6934985?s=200&v=4">
-            </div>
-        </div>
-    </div>
-</div>
+                
 
 #### ** WHAT'S YOUR ROLE?**
 
