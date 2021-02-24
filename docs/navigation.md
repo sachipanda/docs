@@ -4,28 +4,24 @@
 
 #### ** WHAT ARE YOU TRYING TO ACHIEVE? **
 
+### Use Existig Model
+### Train a Model
+### Run processes at scale
+### Build a custom model
+### Integrate a model into my app
 
-                ### Use existing model
-                
-                ### Train a model
-               
-                ### Run processes at scale
-                
-                ### Build a custom model
-               
-                ### Integrate a model into my app
-                
-                ### Automate a process
-                
+
+                              
 
 #### ** WHAT'S YOUR ROLE?**
+ ### Developer
+ ### Analyst
+ ### Data Scientist
+ ### Solutions Architect
+ ### Operations 
 
-                ### Developer 
-                ### Analyst
-                ### Product Manager
-                ### Data Scientist
-                ### Solutions Architect
-                ### Operations 
+            
+              
                
 
 <!-- tabs:end -->
