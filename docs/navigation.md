@@ -18,7 +18,7 @@ Use aiWARE to train your models and benchmark their performance.
 
 [GET STARTED](/#/developer/engines/tutorial/engine-training-tutorial)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)
 
 ### Run processes at scale
 
@@ -27,7 +27,7 @@ and behind firewalls.
 
 [GET STARTED](/#/overview/aiware-features)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)
 
 ### Build a custom model
 
@@ -35,7 +35,7 @@ Use aiWARE to create custom model based on your own data points.
 
 [GET STARTED](/#/developer/engines/tutorial/)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)
 
 ### Integrate a model into my app
 
@@ -44,18 +44,7 @@ challenges.
 
 [GET STARTED](/#/developer/applications/app-tutorial/)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
-
-### Automate a process
-
-Use aiWARE to automate business processes and maximize your speed and
-output.
-
-[GET STARTED](/#/automate-studio/)
-
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
-
-
+![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)
                               
 
 #### ** WHAT'S YOUR ROLE?**
