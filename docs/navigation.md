@@ -10,7 +10,7 @@ Use any of the existing models to start creating cognitive applications.
 
 [GET STARTED](/#/quickstart/jobs/?id=working-with-jobs)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg)
 
 ### Train a model
 
