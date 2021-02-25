@@ -9,6 +9,5 @@
 - [Navigation](navigation)
 - [DevOps](devops)
 - [DevOps Adoption](devops-adoption)
-- [Code Quality](code-quality)
 - **Lessons**
 - [Week 4 (May 30 - Jun 5)](module-4)
