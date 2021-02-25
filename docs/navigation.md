@@ -20,7 +20,7 @@ Use any of the existing models to start creating cognitive applications.
 
 Use your models and benchmark their performance.
 
-[GET STARTED](quick-start.local-preview)
+[GET STARTED](quick-start.md#local preview)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
@@ -29,7 +29,7 @@ Use your models and benchmark their performance.
 To run proceses at scale in local networks, on and offline,
 and behind firewalls.
 
-[GET STARTED](quick-start.hosting)
+[GET STARTED](quick-start.md#hosting)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
