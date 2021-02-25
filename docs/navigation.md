@@ -30,7 +30,7 @@ Use any of the existing models to start creating cognitive applications.
 
 Use any of the existing models to start creating cognitive applications.
 
-[GET STARTED](markdown.md#text)
+[GET STARTED](code-quality.md)
 
 ### Speed up our release
 
