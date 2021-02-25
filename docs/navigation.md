@@ -1,17 +1,14 @@
+# Getting started with DevOps
+![DevOps](https://github.com/sachipanda/docs/blob/main/docs/assets/img/DevOps.png)
 
 # Understand DevOps
 ### DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology
 * * * * * * 
-
-![DevOps](https://github.com/sachipanda/docs/blob/main/docs/assets/img/DevOps.png)
-
 <!-- tabs:start -->
-
-
 
 #### ** WHAT ARE YOU TRYING TO ACHIEVE? **
 
-### Use existing model
+### Start just by starting 
 
 Use any of the existing models to start creating cognitive applications.
 
@@ -19,24 +16,24 @@ Use any of the existing models to start creating cognitive applications.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Train a model
+### Be Counted
 
 Use your models and benchmark their performance.
 
-[GET STARTED](/#/quick-start?id=local-preview)
+[GET STARTED](quick-start.local-preview)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Run processes at scale
+### Join The Conversation 
 
 To run proceses at scale in local networks, on and offline,
 and behind firewalls.
 
-[GET STARTED](/#/quick-start?id=hosting)
+[GET STARTED](quick-start.hosting)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Build a custom model
+### Get Hands On
 
 Use to create custom model based on your own data points.
 
@@ -44,7 +41,7 @@ Use to create custom model based on your own data points.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Integrate a model into my app
+### Show Off
 
 Use your model in production apps and start resolving real technical
 challenges.
@@ -53,16 +50,8 @@ challenges.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Automate a process
 
-Use to automate business processes and maximize your speed and
-output.
-
-[GET STARTED](/#/automate-studio/)
-
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
-
-\#\#\#\# \*\* WHAT'S YOUR ROLE?\*\*
+#### ** WHAT'S YOUR ROLE?**
 
 ### Developer
 
@@ -72,7 +61,7 @@ Learn how to create your own custom engine to analyze and process data.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Analyst
+### Quality Engineer
 
 Learn how to use advanced automation AI techniques to streamline your
 process and optimize time.
@@ -81,7 +70,7 @@ process and optimize time.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Product Manager
+### Reliability Engineer
 
 Use to rapidly prototype and iterate on ideas with an easy to use
 GUI-based platform.
@@ -90,7 +79,7 @@ GUI-based platform.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Data Scientist
+### Security Expert
 
 Learn how to implement your model quickly and run it at scale in
 production.
@@ -99,7 +88,7 @@ production.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Solutions Architect
+### Scrum Master
 
 Solve business problems using AI and take them to market in no time.
 
@@ -107,7 +96,7 @@ Solve business problems using AI and take them to market in no time.
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
-### Operations
+### Tech Lead
 
 Use to streamline operations and maximize your efficiency and
 output.
@@ -116,22 +105,12 @@ output.
 
 ![](https://github.com/sachipanda/docs/blob/main/docs/assets/img/Teams.svg)
 
-\#\# Do more with DevOps Practice \
-
-### Veritone Automate Studio
-
-Automate workflows and processes using a drag and drop platform. Learn
-how to make money with our Automate flow bounties program by clicking
-[here](/#/automate-studio/flow-bounties/README)!
-
-[EXPLORE](/#/automate-studio/)
-
-#### ** WHAT'S YOUR ROLE?**
- ### Developer
- ### Analyst
- ### Data Scientist
- ### Solutions Architect
- ### Operations 
+#### ** Agile/DevOps Transformation Playbook?**
+ ### DevOps Operating Model
+ ### SRE
+ ### QE
+ ### Sucess Story
+ ### Measuring DevOps Adoption 
 
 
 <!-- tabs:end -->
