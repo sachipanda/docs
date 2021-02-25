@@ -20,7 +20,7 @@ Use any of the existing models to start creating cognitive applications.
 
 Use your models and benchmark their performance.
 
-[GET STARTED](quick-start.md#local preview)
+[GET STARTED](quick-start.md#Installation)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
