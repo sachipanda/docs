@@ -8,6 +8,48 @@
 
 #### ** WHAT ARE YOU TRYING TO ACHIEVE? **
 
+### Add or update content on this site 
+
+Use any of the existing models to start creating cognitive applications.
+
+[GET STARTED](markdown.md#text)
+
+### Learn about DevOps
+
+Use any of the existing models to start creating cognitive applications.
+
+[GET STARTED](markdown.md#text)
+
+### Adopt DevOps in my project
+
+Use any of the existing models to start creating cognitive applications.
+
+[GET STARTED](markdown.md#text)
+
+### Increase code quality of my project
+
+Use any of the existing models to start creating cognitive applications.
+
+[GET STARTED](markdown.md#text)
+
+### Speed up our release
+
+Use any of the existing models to start creating cognitive applications.
+
+[GET STARTED](markdown.md#text)
+
+### Get ready for cloud migration 
+
+Use any of the existing models to start creating cognitive applications.
+
+[GET STARTED](markdown.md#text)
+
+### Learn about SDLC3b
+
+Use any of the existing models to start creating cognitive applications.
+
+[GET STARTED](markdown.md#text)
+
 ### Start just by starting 
 
 Use any of the existing models to start creating cognitive applications.
@@ -59,7 +101,12 @@ Learn how to create your own custom engine to analyze and process data.
 
 [GET STARTED](/#/quickstart/engine-developer/)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
+### DevOps Engineer
+
+Learn how to create your own custom engine to analyze and process data.
+
+[GET STARTED](/#/quickstart/engine-developer/)
+
 
 ### Quality Engineer
 
@@ -77,8 +124,6 @@ GUI-based platform.
 
 [GET STARTED](/#/automate-studio/)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
-
 ### Security Expert
 
 Learn how to implement your model quickly and run it at scale in
@@ -86,15 +131,12 @@ production.
 
 [GET STARTED](/#/developer/engines/)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
 ### Scrum Master
 
 Solve business problems using AI and take them to market in no time.
 
 [GET STARTED](/#/quickstart/ml-integrator/)
-
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
 ### Tech Lead
 
@@ -103,7 +145,22 @@ output.
 
 [GET STARTED](/#/automate-studio/)
 
-![](https://github.com/sachipanda/docs/blob/main/docs/assets/img/Teams.svg)
+
+### Agile Coach
+
+Use to streamline operations and maximize your efficiency and
+output.
+
+[GET STARTED](/#/automate-studio/)
+
+
+### DevOps Champion
+
+Use to streamline operations and maximize your efficiency and
+output.
+
+[GET STARTED](/#/automate-studio/)
+
 
 #### ** Agile/DevOps Transformation Playbook?**
  ### DevOps Operating Model
