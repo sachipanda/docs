@@ -64,7 +64,6 @@ Use your models and benchmark their performance.
 
 [GET STARTED](quick-start.md#Installation)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
 ### Join The Conversation 
 
@@ -73,15 +72,12 @@ and behind firewalls.
 
 [GET STARTED](quick-start.md#hosting)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
-
 ### Get Hands On
 
 Use to create custom model based on your own data points.
 
 [GET STARTED](/#/themes?id=defaults)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
 ### Show Off
 
@@ -89,8 +85,6 @@ Use your model in production apps and start resolving real technical
 challenges.
 
 [GET STARTED](/#/developer/applications/app-tutorial/)
-
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
 
 #### ** WHAT'S YOUR ROLE?**
@@ -115,7 +109,6 @@ process and optimize time.
 
 [GET STARTED](/#/quickstart/ml-explorer/)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
 ### Reliability Engineer
 
