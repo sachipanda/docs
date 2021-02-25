@@ -11,7 +11,7 @@
 
 Use any of the existing models to start creating cognitive applications.
 
-[GET STARTED](#quick-start?id=installation)
+[GET STARTED](markdown.md#text)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
 
