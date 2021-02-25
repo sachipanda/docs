@@ -14,7 +14,7 @@ Use any of the existing models to start creating cognitive applications.
 
 [GET STARTED](markdown.md#text)
 
-![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
+![](https://www.logolynx.com/topic/start#&gid=1&pid=11)
 
 ### Be Counted
 
