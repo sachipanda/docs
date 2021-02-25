@@ -8,5 +8,6 @@
 - [Changelog](changelog)
 - [Navigation](navigation)
 - [DevOps](devops)
+- [DevOps Adoption](devops-adoption)
 - **Lessons**
 - [Week 4 (May 30 - Jun 5)](module-4)
