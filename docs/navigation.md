@@ -6,7 +6,7 @@
 
 
 #### ** WHAT ARE YOU TRYING TO ACHIEVE? **
-```
+
 ### Use existing model
 
 Use any of the existing models to start creating cognitive applications.
@@ -14,8 +14,7 @@ Use any of the existing models to start creating cognitive applications.
 [GET STARTED](/#/quick-start?id=installation)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
-```
-```
+
 ### Train a model
 
 Use your models and benchmark their performance.
@@ -23,7 +22,6 @@ Use your models and benchmark their performance.
 [GET STARTED](/#/quick-start?id=local-preview)
 
 ![](https://avatars3.githubusercontent.com/u/6934985?s=200&v=4)
-```
 
 ### Run processes at scale
 
