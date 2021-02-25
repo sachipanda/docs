@@ -7,5 +7,6 @@
 - [Markdown](markdown)
 - [Changelog](changelog)
 - [Navigation](navigation)
+- [DevOps](devops)
 - **Lessons**
 - [Week 4 (May 30 - Jun 5)](module-4)
