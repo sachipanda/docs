@@ -13,7 +13,7 @@
 Use any of the existing models to start creating cognitive applications.
 
 [GET STARTED](markdown.md#text)
-
+![DevOps](assets/img/memo.png ':size=30%')
 ![logo](https://docsify.js.org/_media/icon.svg ':size=10%')
 
 ### Be Counted
