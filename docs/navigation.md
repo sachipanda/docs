@@ -14,7 +14,6 @@ Use any of the existing models to start creating cognitive applications.
 
 [GET STARTED](markdown.md#text)
 
-![Memo](assets/img/memo.png ':size=30%')
 ![logo](https://docsify.js.org/_media/icon.svg ':size=10%')
 
 ### Be Counted
@@ -108,8 +107,11 @@ output.
 
 #### ** Agile/DevOps Transformation Playbook?**
  ### DevOps Operating Model
+ DevOps is seen as the digital foundation for improving time to market and launching innovation initiatives to respond to dynamic and disruptive market scenarios.
  ### SRE
+ Site reliability engineering (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems. The main goals are to create scalable and highly reliable software systems.
  ### QE
+ To meet the growing demand for quality software applications in double quick time, a mere tweaking of the software development process is not enough. What is needed is the adoption of software quality engineering process comprising optimal quality assurance, predictive analytics and monitoring of QA elements to reduce glitches to negligible levels. The process would involve a continuous cycle of feedback and quality improvement based on the same. The quality engineering process offers maximum test coverage in the shift-left scheme of things and ensures outcomes like functionality, security, accessibility, usability, performance and reliability of the software application. It complements Agile and DevOps methodologies and ensures their outcomes to remain consistent with the desired business objectives. Quality engineering, instead of identifying the inherent glitches in the SDLC, focuses more on preventing them altogether
  ### Sucess Story
  ### Measuring DevOps Adoption 
 
