@@ -1,14 +1,11 @@
 # Navigation
-## TEST
+# Understand DevOps
+### DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology
+* * * * *
 <!-- tabs:start -->
 
-# Understand DevOps
 
-### DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile methodology
-
-* * * * *
-
-## Start implementing DevOps #### ** WHAT ARE YOU TRYING TO ACHIEVE? **
+#### ** WHAT ARE YOU TRYING TO ACHIEVE? **
 
 ### Use existing model
 
@@ -125,23 +122,13 @@ how to make money with our Automate flow bounties program by clicking
 
 [EXPLORE](/#/automate-studio/)
 
-### Veritone Benchmark
+#### ** WHAT'S YOUR ROLE?**
+ ### Developer
+ ### Analyst
+ ### Data Scientist
+ ### Solutions Architect
+ ### Operations 
 
-Compare the performance of different cognitive engines against your own
-use case.
-
-[EXPLORE](/#/benchmark/)
-
-* * * * *
-
-![](https://s29980.pcdn.co/wp-content/uploads/2017/01/Slack-icon.png)
-
-### Join Veritone's Slack Channel
-
-For technical and business-related questions, please reach out to us on
-Slack. We're here to help!
-
-[JOIN CHANNEL](https://veritonedev.slack.com)
 
 <!-- tabs:end -->
 
