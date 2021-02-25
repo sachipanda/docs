@@ -18,7 +18,7 @@ Use any of the existing models to start creating cognitive applications.
 
 Use any of the existing models to start creating cognitive applications.
 
-[GET STARTED](markdown.md#text)
+[GET STARTED](devops.md#Learn-about-DevOps)
 
 ### Adopt DevOps in my project
 
