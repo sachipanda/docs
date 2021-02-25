@@ -12,7 +12,7 @@
 
 Use any of the existing models to start creating cognitive applications.
 
-[GET STARTED](devops.md#Add or update content on this site)
+[GET STARTED](devops.md#Add-or-update-content-on-this-site)
 
 ### Learn about DevOps
 
