@@ -96,7 +96,7 @@ Security in DevOps is no longer the domain of security experts with specialized 
 
 # Scrum Master
 A scrum master is the facilitator for an agile development team. Scrum is a methodology that allows a team to self-organize and make changes quickly, in accordance with agile principles. The scrum master manages the process for how information is exchanged.
-# Teach Lead
+# TechLead
 A Tech Lead  is a person who is responsible for creating and leading  a team or a company. Some things that an Agile Coach might do are: spread Agile best practices between different teams; integrate Agile teams within non-Agile processes; and measure results of an Agile transition.
 # Agile Coach
 An Agile coach is a person who is responsible for creating and improving Agile processes within a team or a company. Some things that an Agile Coach might do are: spread Agile best practices between different teams; integrate Agile teams within non-Agile processes; and measure results of an Agile transition.
