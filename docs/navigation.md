@@ -56,13 +56,13 @@ Use any of the existing models to start creating cognitive applications.
 
 Learn how to create your own custom engine to analyze and process data.
 
-[GET STARTED](/#/quickstart/engine-developer/)
+[GET STARTED](role.md#Developer)
 
 ### DevOps Engineer
 
 Learn how to create your own custom engine to analyze and process data.
 
-[GET STARTED](/#/quickstart/engine-developer/)
+[GET STARTED](role.md#DevOps-Engineer)
 
 
 ### Quality Engineer
@@ -70,7 +70,7 @@ Learn how to create your own custom engine to analyze and process data.
 Learn how to use advanced automation AI techniques to streamline your
 process and optimize time.
 
-[GET STARTED](/#/quickstart/ml-explorer/)
+[GET STARTED](role.md#Quality-Engineer)
 
 
 ### Reliability Engineer
@@ -78,28 +78,28 @@ process and optimize time.
 Use to rapidly prototype and iterate on ideas with an easy to use
 GUI-based platform.
 
-[GET STARTED](/#/automate-studio/)
+[GET STARTED](role.md#Reliability-Engineer)
 
 ### Security Expert
 
 Learn how to implement your model quickly and run it at scale in
 production.
 
-[GET STARTED](/#/developer/engines/)
+[GET STARTED](role.md#Security-Expert)
 
 
 ### Scrum Master
 
 Solve business problems using AI and take them to market in no time.
 
-[GET STARTED](/#/quickstart/ml-integrator/)
+[GET STARTED](role.md#Scrum-Master)
 
 ### Tech Lead
 
 Use to streamline operations and maximize your efficiency and
 output.
 
-[GET STARTED](/#/automate-studio/)
+[GET STARTED](role.md#TechLead)
 
 
 ### Agile Coach
@@ -107,7 +107,7 @@ output.
 Use to streamline operations and maximize your efficiency and
 output.
 
-[GET STARTED](/#/automate-studio/)
+[GET STARTED](role.md#Agile-Coach)
 
 
 ### DevOps Champion
@@ -115,7 +115,7 @@ output.
 Use to streamline operations and maximize your efficiency and
 output.
 
-[GET STARTED](/#/automate-studio/)
+[GET STARTED](role.md#DevOps-Chamion)
 
 
 <!-- tabs:end -->
