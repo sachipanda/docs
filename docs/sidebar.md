@@ -12,5 +12,6 @@
 - [Code Quality](code-quality.md)
 - [Speed Up Our Release](Speed-up-our-release.md)
 - [SDLC](sdlc.md)
+- [Role](role.md)
 - **Lessons**
 - [Week 4 (May 30 - Jun 5)](module-4)
